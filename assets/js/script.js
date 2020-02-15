@@ -19,14 +19,6 @@ function cancelSlider() {
 }
 
 
-
-
-
-
-
-
-
-
 // slider js starts here
 
 
@@ -143,3 +135,4 @@ function animate() {
   setTimeout( animate, 4000);
 }
 setTimeout( animate, 4000);
+
